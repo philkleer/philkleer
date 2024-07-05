@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
-- 🏠 website: [https://bpkleer.github.io](https://bpkleer.github.io)
+- 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer), [https://bpkleer.github.io](https://bpkleer.github.io)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com
 - 👨🏻‍💻 work: currently as postdoc at Justus-Liebig-University Giessen (Germany)
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
@@ -22,7 +22,7 @@ I am a trained political scientist with a strong background and focus on quantit
  </tr>
  <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=r,md,latex,git,html,css,sass,github,&perline=3&theme=light" />
+        <img src="https://skillicons.dev/icons?i=r,md,latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,regex,swift&perline=3" />
