@@ -9,9 +9,9 @@ I am a trained political scientist with a strong background and focus on quantit
 
 ## 🔍 What I Bring to the Table:
 
-- Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting (large) datasets.
-- Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
-- Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
+- 📈 Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting (large) datasets.
+- 🗂️ Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
+- 🌎 Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
 
 ## 🛠️ Skills
 <table border="1px solid black" style="margin: 5px">
