@@ -38,9 +38,9 @@ I am a trained political scientist with a strong background and focus on quantit
 ## 💻 IDE/GUI’s I like
 
 <p align="center">
- <img src="./rstudioide-color.svg" width="24" height="24">
+ <img src="./rstudioide-color.svg" width="48" height="48">
  <img src="https://skillicons.dev/icons?i=visualstudio" />
- <img src="./obsidian-color.svg" width="24" height="24">
+ <img src="./obsidian-color.svg" width="48" height="48">
 </p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
