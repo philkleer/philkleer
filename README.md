@@ -22,7 +22,7 @@ I am a trained political scientist with a strong background and focus on quantit
  </tr>
  <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=r,md,latex,git,html,css,sass,github,&perline=3" />
+        <img src="https://skillicons.dev/icons?i=r,md,latex,git,html,css,sass,github,&perline=3&theme=light" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,regex,swift&perline=3" />
