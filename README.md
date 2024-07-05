@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**bpkleer/bpkleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
+- 🏠 website: [https://bpkleer.github.io](https://bpkleer.github.io)
+- 📧 e-mail: philipp (dot) kleer (at) posteo (dot) de
+- 👨🏻‍💻 work: currently as postdoc at Justus-Liebig-University Giessen (Germany)
 
-Here are some ideas to get you started:
+I am a trained political scientist with a strong background and focus on quantitative analysis and methods. I studied at the Universities of Cologne and Vienna before completing my doctorate at the University of Giessen. In the last years, I had two international research visits: Universidade Federal de Pernambuco in Recife, Brazil (6 months) and Universidad de Carlos III in Madrid, Spain (2 weeks). I have strengthened my ability to conceptualize, plan, and execute projects through research and teaching projects. I am currently employed in the EU-funded project G-EPIC: Gender Empowerment through Politics In Classrooms until September 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Bring to the Table:
+
+- Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting large datasets.
+- Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
+- Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
+
+I demonstrated my interpersonal and cultural skills at international conferences/workshops and, most recently, during a six-month stay abroad. These experiences in (international) teams have sharpened my ability to operate and contribute effectively in diverse environments. You find more information in my résumé.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Skills
+<table border="1px solid black" style="margin: 5px">
+ <tr>
+    <td><b style="font-size:30px">I have</b></td>
+    <td><b style="font-size:30px">I'm learning</b></td>
+ <!---   <td><b style="font-size:30px">In the memory banks</b></td> --->
+ </tr>
+ <tr>
+    <td>
+        <img src="https://skillicons.dev/icons?i=r,md,latex,git,html,css,sass,github,&perline=3" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,regex&perline=3" />
+      <br>
+      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
+    </td>
+    <!---- <td>
+      <img src="https://skillicons.dev/icons?i=matlab" />
+    </td>
+   ---->
+ </tr>
+</table>
