@@ -16,8 +16,8 @@ I am a trained political scientist with a strong background and focus on quantit
 ## 🛠️ Skills
 <table border="1px solid black" style="margin: 5px">
  <tr>
-    <td><b style="font-size:30px">I have</b></td>
-    <td><b style="font-size:30px">I'm learning</b></td>
+    <td><b style="font-size:30px">I have ✅</b></td>
+    <td><b style="font-size:30px">I'm learning 📚</b></td>
  <!---   <td><b style="font-size:30px">In the memory banks</b></td> --->
  </tr>
  <tr>
