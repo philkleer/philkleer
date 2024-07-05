@@ -5,18 +5,13 @@
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) de
 - 👨🏻‍💻 work: currently as postdoc at Justus-Liebig-University Giessen (Germany)
 
-I am a trained political scientist with a strong background and focus on quantitative analysis and methods. I studied at the Universities of Cologne and Vienna before completing my doctorate at the University of Giessen. In the last years, I had two international research visits: Universidade Federal de Pernambuco in Recife, Brazil (6 months) and Universidad de Carlos III in Madrid, Spain (2 weeks). I have strengthened my ability to conceptualize, plan, and execute projects through research and teaching projects. I am currently employed in the EU-funded project G-EPIC: Gender Empowerment through Politics In Classrooms until September 2024.
+I am a trained political scientist with a strong background and focus on quantitative analysis and methods. Before completing my doctorate at the University of Giessen, I studied at the Universities of Cologne and Vienna. In the last years, I had two international research visits: Universidade Federal de Pernambuco in Recife, Brazil (6 months) and Universidad de Carlos III in Madrid, Spain (2 weeks). I demonstrated my interpersonal and cultural skills in these research stays and at international conferences/workshops. These experiences in (international) teams have sharpened my ability to operate and contribute effectively in diverse environments. Throughout projects (research and teaching), I have strengthened my ability to conceptualize, plan, and execute projects. I am currently employed in the EU-funded project [G-EPIC: Gender Empowerment through Politics In Classrooms](https://g-epic.eu) until September 2024.
 
-🔍 What I Bring to the Table:
+## 🔍 What I Bring to the Table:
 
-- Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting large datasets.
+- Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting (large) datasets.
 - Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
 - Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
-
-I demonstrated my interpersonal and cultural skills at international conferences/workshops and, most recently, during a six-month stay abroad. These experiences in (international) teams have sharpened my ability to operate and contribute effectively in diverse environments. You find more information in my résumé.
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Skills
 <table border="1px solid black" style="margin: 5px">
@@ -42,3 +37,5 @@ I demonstrated my interpersonal and cultural skills at international conferences
    ---->
  </tr>
 </table>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
