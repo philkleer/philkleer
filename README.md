@@ -42,7 +42,7 @@ I am a trained political scientist with a strong background and focus on quantit
 <p align="center">
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
  <img src="https://skillicons.dev/icons?i=visualstudio,&perline=3" />
- <svg><use href="#icon-expand"/></svg>
+ <svg><use href="#obsidian"/></svg>
 
 </p>
 
