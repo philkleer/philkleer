@@ -13,7 +13,7 @@ I am a trained political scientist with a strong background and focus on quantit
 - Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
 - Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
 
-## Skills
+## 🛠️ Skills
 <table border="1px solid black" style="margin: 5px">
  <tr>
     <td><b style="font-size:30px">I have</b></td>
@@ -27,9 +27,7 @@ I am a trained political scientist with a strong background and focus on quantit
     <td>
       <img src="https://skillicons.dev/icons?i=python,regex&perline=3" />
       <br>
-      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
+      <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
     <!---- <td>
       <img src="https://skillicons.dev/icons?i=matlab" />
@@ -38,4 +36,12 @@ I am a trained political scientist with a strong background and focus on quantit
  </tr>
 </table>
 
+## 💻 IDE/GUI’s I like
+
+<p align="center">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
