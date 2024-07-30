@@ -41,7 +41,7 @@ I am a trained political scientist with a strong focus on quantitative analysis 
 </table>
 
 ## 💻 IDE/GUI’s I like
-  <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="48" height="48" alt="Positron" /></a>
+  <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
   <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
   <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
 
