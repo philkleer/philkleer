@@ -22,7 +22,7 @@ I am a trained political scientist with a strong focus on quantitative analysis 
  </tr>
  <tr>
     <td>
-        <img src="./quarto.png" width="50.75" height="48" /> <img src="https://skillicons.dev/icons?i=r,md,&perline=3&theme=light" /><br>
+        <img src="./quarto.png" width="41.5944541" height="48" /> <img src="https://skillicons.dev/icons?i=r,md,&perline=3&theme=light" /><br>
         <img src="https://skillicons.dev/icons?i=latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
     </td>
     <td>
