@@ -25,7 +25,7 @@ I am a trained political scientist with a strong focus on quantitative analysis 
         <img src="https://skillicons.dev/icons?i=r,md,latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,regex,swift&perline=3" />
+      <img src="https://skillicons.dev/icons?i=python,regex&perline=3" /> <img src="./shiny.png" />
       <br>
       <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
@@ -37,8 +37,9 @@ I am a trained political scientist with a strong focus on quantitative analysis 
 </table>
 
 ## 💻 IDE/GUI’s I like
- <img src="./rstudioide-color.svg" width="48" height="48"> <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
-  <img src="./texshop.png" width="48" height="48">
+  <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="48" height="48" alt="Positron" /></a>
+  <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
+  <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
