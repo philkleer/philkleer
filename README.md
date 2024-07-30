@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### At the moment, I'm looking out for new opportunities in or outside of academia in 🇪🇺 or 🇧🇷, where I can leverage my skills to drive data-driven decision-making, innovation and/or teaching.
+### At the moment, I am looking for new opportunities within or outside academia in 🇪🇺 or 🇧🇷 where I can utilize my skills in a variety of ways to drive data-driven decision making, innovation/research and/or teaching.
 
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
 - 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer), [https://bpkleer.github.io](https://bpkleer.github.io)
