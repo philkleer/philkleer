@@ -22,10 +22,11 @@ I am a trained political scientist with a strong focus on quantitative analysis 
  </tr>
  <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=r,md,latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
+        <img src="./quarto.png" width="50.75" height="48" /> <img src="https://skillicons.dev/icons?i=r,md,&perline=3&theme=light" /><br>
+        <img src="https://skillicons.dev/icons?i=latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,regex&perline=3" /> <img src="./shiny.png" />
+      <img src="https://skillicons.dev/icons?i=python,regex&perline=3" /> <img src="./shiny.png" width="41.5" height="48" />
       <br>
       <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
