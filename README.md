@@ -31,6 +31,7 @@ I am a trained political scientist with a strong focus on quantitative analysis 
     <td>
       <img src="https://skillicons.dev/icons?i=python,regex&perline=3" /> <img src="./shiny.png" width="41.5" height="48" />
       <br>
+      <img src="./typst.png" width="48" height="48" />
       <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
     <!---- <td>
