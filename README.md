@@ -25,13 +25,14 @@ I am a trained social scientist with a strong focus on quantitative analysis and
  </tr>
  <tr>
     <td>
-        <img src="./quarto.png" width="41.5944541" height="48" /> <img src="https://skillicons.dev/icons?i=r,md,&perline=3&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=latex,git,github,gitlab,html,css,sass,&perline=3&theme=light" />
+        <img src="https://skillicons.dev/icons?i=python,r,&perline=3&theme=light"/img> <br>
+        <img src="./sql.png" width="96" height="44" /> <br>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,sass,&perline=3&theme=light" /><br>
+        <img src="https://skillicons.dev/icons?i=latex,&theme=light" /> <img src="./quarto.png" width="41.5944541" height="48" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,regex&perline=3" /> <img src="./shiny.png" width="41.5" height="48" />
+      <img src="https://skillicons.dev/icons?i=docker,regex&perline=3" /> <img src="./shiny.png" width="41.5" height="48" /> <img src="./typst.png" width="48" height="48" />
       <br>
-      <img src="./typst.png" width="48" height="48" />
       <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
     <!---- <td>
