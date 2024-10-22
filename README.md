@@ -8,7 +8,9 @@
 - 👨🏻‍💻 work: training as Data Scientist (DataScientest)
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
 
-I am a trained social scientist with a strong focus on quantitative analysis and methods. Before completing my doctorate at the University of Giessen, I studied at the Universities of Cologne and Vienna. Through projects (research and teaching) I have strengthened my ability to conceptualize, plan and implement projects. In recent years, I have had two international research stays: Universidade Federal de Pernambuco in Recife, Brazil and Universidad de Carlos III in Madrid. During these research stays and at international conferences/workshops, I have demonstrated my interpersonal and cultural skills. These experiences in (international) teams have sharpened my ability to work and contribute effectively in different environments. Further information can be found in the [Résumé](https://bpkleer.github.io/files/resume-kleer-en.pdf).
+I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking new challenges in the field of **Data Science** in 🇪🇺 or 🇧🇷 to apply my analytical and technical skills in data-driven decision-making and innovative research.
+
+Before completing my PhD at the University of Giessen, I studied at the Universities of Cologne and Vienna, where I successfully designed and implemented projects. International research stays, conferences, and working in international teams have strengthened my intercultural and team-oriented skills. I look forward to working in dynamic environments and contributing to the advancement of data-driven solutions. For more information, please see my [résumé](https://bpkleer.github.io/files/resume-kleer-en.pdf).
 
 ## 🔍 What I Bring to the Table:
 
