@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-### At the moment, I am looking for new opportunities outside academia in 🇪🇺 or 🇧🇷 where I can utilize my skills in a variety of ways to drive data-driven decision making, innovation/research and/or teaching.
+### Currently, I am seeking new challenges in dynamic, diverse, and international environments (🇪🇺 or 🇧🇷), contributing to the advancement of data-driven solutions with my knowledge and amplifying my knowledge and understanding.
 
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
-- 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer), [https://bpkleer.github.io](https://bpkleer.github.io)
+- 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com
 - 👨🏻‍💻 work: training as Data Scientist (DataScientest)
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
 
-I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking new challenges in the field of **Data Science** in 🇪🇺 or 🇧🇷 to apply my analytical and technical skills in data-driven decision-making and innovative research.
+I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking new challenges in 🇪🇺 or 🇧🇷 to apply my analytical and technical skills in data-driven decision-making and innovative research.
 
-Before completing my PhD at the University of Giessen, I studied at the Universities of Cologne and Vienna, where I successfully designed and implemented projects. International research stays, conferences, and working in international teams have strengthened my intercultural and team-oriented skills. I look forward to working in dynamic environments and contributing to the advancement of data-driven solutions. For more information, please see my [résumé](https://bpkleer.github.io/files/resume-kleer-en.pdf).
+Before completing my PhD at the University of Giessen, I studied at the Universities of Cologne and Vienna, where I successfully designed and implemented projects. My international research stays, conferences, and work in international teams have strengthened my intercultural and teamwork skills. I look forward to collaborating in dynamic, diverse, and international environments in 🇪🇺 or 🇧🇷 applying my analytical and technical skills in data-driven decision-making and expanding my knowledge further. For information on my past academic work, please click on the link to [ORCID](https://orcid.org/0000-0003-1935-387X) or [Lattes](http://lattes.cnpq.br/4785970328498860).
 
 ## 🔍 What I Bring to the Table:
 
