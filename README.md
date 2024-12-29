@@ -5,7 +5,7 @@
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
 - 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com
-- 👨🏻‍💻 work: training as Data Scientist (DataScientest)
+- 👨🏻‍💻 training at the moment: Data Scientist (DataScientest)
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
 
 I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking new challenges in 🇪🇺 or 🇧🇷 to apply my analytical and technical skills in data-driven decision-making and innovative research.
