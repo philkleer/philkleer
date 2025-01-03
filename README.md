@@ -8,15 +8,15 @@
 - 👨🏻‍💻 training at the moment: Data Scientist (DataScientest)
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
 
-I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking new challenges in 🇪🇺 or 🇧🇷 to apply my analytical and technical skills in data-driven decision-making and innovative research.
+I am a skilled data scientist and statistician with a strong foundation in quantitative analysis, advanced statistical modeling and machine learning. My expertise spans R, Python, and SQL, enabling me to design and implement data-driven solutions to complex problems. With a PhD in Social Sciences, I bring a unique ability to bridge technical proficiency with domain-specific insights, driving informed decision-making in diverse fields. My multilingual abilities (English, Portuguese, German) and experience in international teams make me adept at collaborating across cultural and professional boundaries.
 
-Before completing my PhD at the University of Giessen, I studied at the Universities of Cologne and Vienna, where I successfully designed and implemented projects. My international research stays, conferences, and work in international teams have strengthened my intercultural and teamwork skills. I look forward to collaborating in dynamic, diverse, and international environments in 🇪🇺 or 🇧🇷 applying my analytical and technical skills in data-driven decision-making and expanding my knowledge further. For information on my past academic work, please click on the link to [ORCID](https://orcid.org/0000-0003-1935-387X) or [Lattes](http://lattes.cnpq.br/4785970328498860).
+I am passionate about leveraging my analytical and technical expertise to contribute to innovative, data-focused projects in dynamic, global environments. Whether enhancing predictive models, uncovering actionable insights, or mentoring teams, I am committed to delivering impactful solutions. I seek opportunities in Europe or Brazil where I can further explore data-driven strategies, expand my technical horizon, and make meaningful contributions to business and research innovation. For information on my past academic work, please click on the link to [ORCID](https://orcid.org/0000-0003-1935-387X) or [Lattes](http://lattes.cnpq.br/4785970328498860).
 
 ## 🔍 What I Bring to the Table:
 
-- 📈 Expertise in Quantitative Data Analysis: Extensive experience in handling and interpreting (large) datasets.
-- 🗂️ Project Management: Proven ability to conceptualize, plan, and execute complex research and teaching projects.
-- 🌎 Global Perspective: International exposure and experience, adding a diverse outlook to my skill set.
+- 📊 Expertise in Data Science and Analytics: Proficiency in R, Python, SQL and advanced statistical analyses on complex datasets
+- 🎯 Innovative Problem Solving and Project Management: Expertise in conceptualizing, planning, and executing data-driven research and technical projects, delivering impactful results across academic and applied domains.
+- 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
 
 ## 🛠️ Skills
 <table border="1px solid black" style="margin: 5px">
