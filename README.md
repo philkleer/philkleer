@@ -49,5 +49,5 @@ I am passionate about leveraging my analytical and technical expertise to contri
   <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
   <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bpkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
