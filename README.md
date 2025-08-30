@@ -32,7 +32,7 @@ I am passionate about leveraging my analytical and technical expertise to contri
         <img src="https://skillicons.dev/icons?i=latex,&theme=light" /> <img src="./quarto.png" width="41.5944541" height="48" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,regex, kubernetes, postgresql&perline=3" /> <img src="./shiny.png" width="41.5" height="48" /> <img src="./typst.png" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=docker,regex, kubernetes&perline=3" /> <img src="./shiny.png" width="41.5" height="48" /> <img src="./typst.png" width="48" height="48" />
       <br>
       <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
     </td>
