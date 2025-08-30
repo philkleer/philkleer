@@ -18,30 +18,14 @@ I am passionate about leveraging my analytical and technical expertise to contri
 - 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
 
 ## 🛠️ Skills
-<table border="1px solid black" style="margin: 5px">
- <tr>
-    <td><b style="font-size:30px">I have ✅</b></td>
-    <td><b style="font-size:30px">I'm learning 📚</b></td>
- <!---   <td><b style="font-size:30px">In the memory banks</b></td> --->
- </tr>
- <tr>
-    <td>
-        <img src="https://skillicons.dev/icons?i=python,r,&perline=3&theme=light"/img> <br>
-        <img src="./sql.png" width="96" height="44" /> <br>
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,sass,&perline=3&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=latex,&theme=light" /> <img src="./quarto.png" width="41.5944541" height="48" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,regex,kubernetes,postgresql&perline=3" /> <img src="./shiny.png" width="41.5" height="48" /> <img src="./typst.png" width="48" height="48" />
-      <br>
-      <!--- <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br> --->
-    </td>
-    <!---- <td>
-      <img src="https://skillicons.dev/icons?i=matlab" />
-    </td>
-   ---->
- </tr>
-</table>
+
+### I have ✅
+
+<p><img src="https://skillicons.dev/icons?i=python,r,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><img src="./quarto.png" width="41.5944541" height="48"/><br></p>
+
+### I'm learning 📚
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgresql"/> <img src="./shiny.png" width="41.5" height="48" /> <img src="./typst.png" width="48" height="48" />
 
 ## 💻 IDE/GUI’s I like
   <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
