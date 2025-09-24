@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
-- current position: Data Scientist at [CEPTRO - Medições](https://ceptro.br)
+- 🧑‍💻 current position: Data Scientist at [CEPTRO - Medições](https://ceptro.br)
 - 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
@@ -16,7 +16,7 @@ I am passionate about leveraging my analytical and technical expertise to contri
 - 🎯 Innovative Problem Solving and Project Management: Expertise in conceptualizing, planning, and executing data-driven research and technical projects, delivering impactful results across academic and applied domains.
 - 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
 
-### My learning log and case studies
+## 📚 My learning log and project overview
 - [`til-and-notes`](https://github.com/philkleer/til-and-notes)
 
 ## 🛠️ Skills
