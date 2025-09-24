@@ -17,7 +17,7 @@ I am passionate about leveraging my analytical and technical expertise to contri
 - 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
 
 ## 📚 My learning log and project overview
-- [`til-and-notes`](https://github.com/philkleer/til-and-notes)
+- [*Today I learned* and projects](https://github.com/philkleer/til-and-notes)
 
 ## 🛠️ Skills
 
@@ -35,9 +35,10 @@ I am passionate about leveraging my analytical and technical expertise to contri
   <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
   <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- STATS:BEGIN -->
 <!-- STATS:END -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
