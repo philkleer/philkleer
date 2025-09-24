@@ -29,7 +29,6 @@ I am passionate about leveraging my analytical and technical expertise to contri
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgresql"/> <img src="./shiny.png" width="41.5" height="48" /> 
 
-
 ## 💻 IDE/GUI’s I like
   <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
   <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
@@ -48,6 +47,7 @@ I am passionate about leveraging my analytical and technical expertise to contri
 _Last update: 2025-09-24 10:53 (America/Recife)_
 <!-- STATS:END -->
 
+## 📚 History of public Github contributions
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
