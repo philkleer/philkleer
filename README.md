@@ -36,6 +36,16 @@ I am passionate about leveraging my analytical and technical expertise to contri
   <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
 
 <!-- STATS:BEGIN -->
+## 📚 History of contributions at CEPTRO.br (yearly)
+
+#### 2025
+
+- Commits: 4485
+- Merge Requests: 8 created · 8 contributed · 6 merged
+- Issues: 34 created · 20 contributed · 0 closed
+- Code Reviews: 0 approved · 8 commented · 2 reviewer
+
+_Last update: 2025-09-24 10:53 (America/Recife)_
 <!-- STATS:END -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
