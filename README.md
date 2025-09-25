@@ -17,7 +17,7 @@ I am passionate about leveraging my analytical and technical expertise to contri
 - 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
 
 ## 📚 My learning log and project overview
-- [*Today I learned* and projects](https://github.com/philkleer/til-and-notes)
+- [*Today I learned* and projects](https://github.com/philkleer/til_notes)
 
 ## 🛠️ Skills
 
