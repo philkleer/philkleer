@@ -39,11 +39,11 @@ I am passionate about leveraging my analytical and technical expertise to contri
 
 #### 2025
 
-- Merge Requests: 76 created · 25 contributed · 72 merged
-- Issues: 40 created · 25 contributed/assigned · 20 closed
-- Code Reviews: 54 approved · 9 commented · 17 reviewer
+- Merge Requests: 80 created · 29 contributed · 75 merged
+- Issues: 44 created · 29 contributed/assigned · 24 closed
+- Code Reviews: 57 approved · 9 commented · 18 reviewer
 
-_Last update: 2025-10-06 16:43 (America/Recife)_
+_Last update: 2025-10-13 16:43 (America/Recife)_
 <!-- STATS:END -->
 
 ## 📚 History of public Github contributions
