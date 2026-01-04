@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
-- 🧑‍💻 current position: Jr. Data Scientist at [CEPTRO - Medições](https://ceptro.br)
+- 🧑‍💻 current position: Data Scientist at [CEPTRO - Medições](https://ceptro.br)
 - 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com / benedikt (at) nic (dot) br
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
@@ -10,26 +10,33 @@ Ph.D.-trained Data Scientist with 8+ years of experience in quantitative analysi
 
 My work combines advanced statistical and Bayesian modeling, machine learning, and software engineering practices, with hands-on experience in R, Python, SQL, CI/CD, and containerized deployments. I focus on translating complex data into actionable insights through robust analysis, interactive dashboards, and clear analytical narratives.
 
-Currently, I work as a Data Scientist at CEPTRO / NIC.br, where I develop and maintain analytical systems used to understand and monitor internet usage and network quality in Brazil. I collaborate in international and interdisciplinary teams and bring strong experience working across cultural and institutional contexts. For more information on what I'm working on and how, see my [portfolio](https://github.com/philkleer/til_notes).
+Currently, I work as a Data Scientist at CEPTRO / NIC.br, where I develop and maintain analytical systems used to understand and monitor internet usage and network quality in Brazil. I collaborate in international and interdisciplinary teams and bring strong experience working across cultural and institutional contexts.
 
-## 🔍 What I Bring to the Table:
+## 🔍 What I Work On
 
-- 📊 Expertise in Data Analyses and Science: Proficiency in R, Python, SQL and advanced statistical analyses on complex datasets
-- 🎯 Innovative Problem Solving and Project Management: Expertise in conceptualizing, planning, and executing data-driven research and technical projects, delivering impactful results across academic and applied domains.
-- 🌍 Multilingual and International Experience: Multicultural collaboration skills honed through research stays and teamwork across 🇪🇺 and 🇧🇷, with fluency in English, Portuguese, and German to facilitate global connections.
+- **Applied Data Science & Analytics**: Designing and delivering data-driven solutions using R, Python, and SQL, with a strong focus on statistical modeling, exploratory analysis, and decision support on complex, real-world datasets.
 
-## 📚 My learning log and project overview
-- [*Today I learned* and projects](https://github.com/philkleer/til_notes)
+- **Production-Grade Analytical Systems**: Building and maintaining reproducible analytical workflows, Shiny applications, and data pipelines, including CI/CD, testing, containerization, and deployment to production environments.
+
+- **End-to-End Project Ownership**: Taking analytical projects from data integration and modeling to visualization, communication, and long-term maintainability, bridging research-grade methods and operational systems.
+
+- **International & Interdisciplinary Collaboration**: Working in international and cross-functional teams across Europe and Brazil, contributing in English, Portuguese, and German, and translating complex analyses for diverse technical and non-technical stakeholders.
+
+## 📌 Portfolio
+
+Explore curated case studies and project overviews demonstrating my work as a Data Scientist:
+
+🔗 https://github.com/philkleer/portfolio
 
 ## 🛠️ Skills
 
 ### I have ✅
 
-<p><img src="https://skillicons.dev/icons?i=python,r,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><img src="./quarto.png" width="41.5944541" height="48"/><img src="./typst.png" width="48" height="48" /><br></p>
+<p><img src="https://skillicons.dev/icons?i=python,r,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><br><img src="./quarto.png" width="41.5944541" height="48"/><img src="./typst.png" width="48" height="48" /><img src="./shiny.png" width="41.5" height="48" /> </p>
 
 ### I'm learning 📚
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgresql"/> <img src="./shiny.png" width="41.5" height="48" /> 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgresql"/>
 
 ## 💻 IDE/GUI’s I like
   <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
