@@ -6,9 +6,11 @@
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com / benedikt (at) nic (dot) br
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
 
-I am a skilled data scientist with a strong foundation in quantitative analysis, advanced statistical modeling and machine learning. My expertise spans R, Python, and SQL, enabling me to design and implement data-driven solutions to complex problems. With a PhD in Social Sciences, I bring a unique ability to bridge technical proficiency with domain-specific insights, driving informed decision-making in diverse fields. My multilingual abilities (English, Portuguese, German) and experience in international teams make me adept at collaborating across cultural and professional boundaries.
+Ph.D.-trained Data Scientist with 8+ years of experience in quantitative analysis, statistical modeling, and applied data science. I specialize in building reproducible analytical workflows and production-grade data applications that support data-driven decision-making.
 
-I am passionate about leveraging my analytical and technical expertise to contribute to innovative, data-focused projects in dynamic, global environments. Whether enhancing predictive models, uncovering actionable insights, or mentoring teams, I am committed to delivering impactful solutions. At the very moment I'm working as Junior Data Scientist at [CEPTRO-Medições (NIC.br)](https:ceptro.br) where I use my skills to leverage insights on internet usage in Brazil. For more information on what I'm working on and how, see my [Today I learned notes](https://github.com/philkleer/til_notes). For information on my past academic work, please click on the link to [ORCID](https://orcid.org/0000-0003-1935-387X) or [Lattes](https://lattes.cnpq.br/3692373763536731).
+My work combines advanced statistical and Bayesian modeling, machine learning, and software engineering practices, with hands-on experience in R, Python, SQL, CI/CD, and containerized deployments. I focus on translating complex data into actionable insights through robust analysis, interactive dashboards, and clear analytical narratives.
+
+Currently, I work as a Data Scientist at CEPTRO / NIC.br, where I develop and maintain analytical systems used to understand and monitor internet usage and network quality in Brazil. I collaborate in international and interdisciplinary teams and bring strong experience working across cultural and institutional contexts. For more information on what I'm working on and how, see my [portfolio](https://github.com/philkleer/til_notes).
 
 ## 🔍 What I Bring to the Table:
 
