@@ -46,13 +46,13 @@ Explore curated case studies and project overviews demonstrating my work as a Da
 <!-- STATS:BEGIN -->
 ## 📚 History of contributions at CEPTRO.br (yearly)
 
-#### 2025
+#### 2026
 
-- Merge Requests: 136 created · 81 contributed · 125 merged
-- Issues: 64 created · 37 contributed/assigned · 41 closed
-- Code Reviews: 73 approved · 15 commented · 21 reviewer
+- Merge Requests: 0 created · 0 contributed · 0 merged
+- Issues: 0 created · 0 contributed/assigned · 0 closed
+- Code Reviews: 0 approved · 0 commented · 0 reviewer
 
-_Last update: 2025-12-29 16:43 (America/Recife)_
+_Last update: 2026-01-05 16:43 (America/Recife)_
 <!-- STATS:END -->
 
 ## 📚 History of public Github contributions
