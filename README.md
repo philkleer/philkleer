@@ -48,11 +48,11 @@ Explore curated case studies and project overviews demonstrating my work as a Da
 
 #### 2026
 
-- Merge Requests: 31 created · 24 contributed · 34 merged
-- Issues: 47 created · 30 contributed/assigned · 39 closed
-- Code Reviews: 3 approved · 1 commented · 1 reviewer
+- Merge Requests: 36 created · 29 contributed · 38 merged
+- Issues: 51 created · 35 contributed/assigned · 51 closed
+- Code Reviews: 3 approved · 6 commented · 2 reviewer
 
-_Last update: 2026-02-23 16:43 (America/Recife)_
+_Last update: 2026-03-02 16:43 (America/Recife)_
 <!-- STATS:END -->
 
 ## 📚 History of public Github contributions
