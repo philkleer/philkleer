@@ -56,7 +56,8 @@ _Last update: 2026-04-27 16:43 (America/Recife)_
 <!-- STATS:END -->
 
 ## 📚 History of public Github contributions
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philkleer)](https://github.com/philkleer/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=philkleer&layout=compact)
+
 
 
 
