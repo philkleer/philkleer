@@ -32,16 +32,18 @@ Explore curated case studies and project overviews demonstrating my work as a Da
 
 ### I have ✅
 
-<p><img src="https://skillicons.dev/icons?i=python,r,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><br><img src="./quarto.png" width="41.5944541" height="48"/><img src="./typst.png" width="48" height="48" /><img src="./shiny.png" width="41.5" height="48" /> </p>
+<p><img src="https://skillicons.dev/icons?i=python,r,docker,kubernetes,postgresql,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><br><img src="./quarto.png" width="41.5944541" height="48"/><img src="./typst.png" width="48" height="48" /><img src="./shiny.png" width="41.5" height="48" /> </p>
 
+<!--
 ### I'm learning 📚
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgresql"/>
+<img src="https://skillicons.dev/icons?i=snowflake"/>
+-->
 
 ## 💻 IDE/GUI’s I like
   <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
   <img src="https://skillicons.dev/icons?i=visualstudio" /> <img src="./obsidian-color.svg" width="48" height="48">
-  <img src="./rstudioide-color.svg" width="48" height="48"> <img src="./texshop.png" width="48" height="48">
+  <img src="./rstudioide-color.svg" width="48" height="48"> 
 
 <!-- STATS:BEGIN -->
 ## 📚 History of contributions at CEPTRO.br (yearly)
