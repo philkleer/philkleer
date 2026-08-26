@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🙋🏻‍♂️ Pronouns: he/him, ele/dele, er/ihm
-- 🧑‍💻 current position: Data Scientist at [CEPTRO - Medições](https://ceptro.br)
+- 🧑‍💻 current position: Data Scientist at [Involves](https://involves.com)
 - 🏠 websites: [LinkedIn](https://de.linkedin.com/in/kleer)
 - 📧 e-mail: philipp (dot) kleer (at) posteo (dot) com / benedikt (at) nic (dot) br
 - 🗣️: 🇩🇪, 🇧🇷, 🇺🇸
@@ -10,7 +10,7 @@ Ph.D.-trained Data Scientist with 8+ years of experience in quantitative analysi
 
 My work combines advanced statistical and Bayesian modeling, machine learning, and software engineering practices, with hands-on experience in R, Python, SQL, CI/CD, and containerized deployments. I focus on translating complex data into actionable insights through robust analysis, interactive dashboards, and clear analytical narratives.
 
-Currently, I work as a Data Scientist at CEPTRO / NIC.br, where I develop and maintain analytical systems used to understand and monitor internet usage and network quality in Brazil. I collaborate in international and interdisciplinary teams and bring strong experience working across cultural and institutional contexts.
+Currently, I work as a Data Scientist at Involves. I collaborate in international and interdisciplinary teams and bring strong experience working across cultural and institutional contexts.
 
 ## 🔍 What I Work On
 
