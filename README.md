@@ -46,7 +46,7 @@ Explore curated case studies and project overviews demonstrating my work as a Da
   <img src="./rstudioide-color.svg" width="48" height="48"> 
 
 <!-- STATS:BEGIN -->
-## 📚 History of contributions at CEPTRO.br (yearly)
+## 📚 History of contributions at CEPTRO.br
 
 #### 2026
 
