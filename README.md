@@ -34,11 +34,9 @@ Explore curated case studies and project overviews demonstrating my work as a Da
 
 <p><img src="https://skillicons.dev/icons?i=python,r,docker,kubernetes,postgresql,git,github,gitlab,html,css,sass,regex&theme=dark"/img><img src="./sql.png" width="96" height="44"/><br><img src="./quarto.png" width="41.5944541" height="48"/><img src="./typst.png" width="48" height="48" /><img src="./shiny.png" width="41.5" height="48" /> </p>
 
-<!--
 ### I'm learning 📚
 
-<img src="https://skillicons.dev/icons?i=snowflake"/>
--->
+<img src="./snowflake-com-logo.svg" width="48" height="48"/>
 
 ## 💻 IDE/GUI’s I like
   <a href="https://github.com/posit-dev/positron"><img src="./positron.png" width="54" height="54" alt="Positron" /></a>
